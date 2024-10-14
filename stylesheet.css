@@ -1,0 +1,18 @@
+/* Estilo del formulario */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+form .btn {
+    background-color: #3498db;
+    border-color: #3498db;
+    color: #fff;
+}
+
+form .btn:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
